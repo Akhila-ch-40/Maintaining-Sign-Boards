@@ -6,7 +6,10 @@ This project simulates autonomous vehicle behavior in the CARLA simulator using 
 
 ## 📁 Project Structure
 
-* `Main.py` – Main script that runs the CARLA simulation with integrated YOLO-based traffic sign detection and vehicle control.
+* 'Code'-Contains the Code 'main.py' adn the 'requirements.txt'
+* 'Images'- Cantains the images of the respective work of the project
+* 'Model' - Contains 'yolov8n.pt' model used for the project
+* 'Readme'- Info of the Project
 
 ---
 
